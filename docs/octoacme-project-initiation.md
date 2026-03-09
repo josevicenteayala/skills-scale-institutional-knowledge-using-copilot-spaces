@@ -41,3 +41,13 @@ Move to planning when:
 - Success metrics are clear
 - Stakeholders agree on priority
 - Team availability is confirmed
+
+## Roles Involved
+- **Product Manager** — accountable for initiation; owns problem statement and success metrics
+- **Project Manager** — responsible for coordinating initiation activities and producing the one-pager
+- **Stakeholder Communication Lead** — drafts stakeholder list and communication plan
+- **Security Champion** — consulted on initial risk list for security considerations
+
+## Related Templates
+- [Stakeholder Update Template](./octoacme-stakeholder-update-template.md) — communication plan and milestone summary formats
+- [Roles & Personas](./octoacme-roles-and-personas.md) — full role descriptions and RACI ownership table

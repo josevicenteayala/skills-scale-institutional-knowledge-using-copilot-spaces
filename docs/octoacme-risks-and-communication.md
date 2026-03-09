@@ -40,3 +40,13 @@ Incident Communication
 ## Escalation Paths
 - Team-level -> PM -> Product Lead -> Sponsor
 - For security incidents, follow the security incident runbook and notify Security on-call
+
+## Roles Involved
+- **Project Manager** — maintains risk register; escalates to Product Lead and Sponsor
+- **Stakeholder Communication Lead** — owns regular stakeholder updates and incident communications
+- **Security Champion** — owns security risk entries in the register; leads security incident response
+- **Product Manager** — consulted on risk trade-offs and priority decisions
+
+## Related Templates
+- [Stakeholder Update Template](./octoacme-stakeholder-update-template.md) — weekly status, incident, and milestone communication formats
+- [Roles & Personas](./octoacme-roles-and-personas.md) — full role descriptions and RACI ownership table
