@@ -36,3 +36,16 @@ Standardize how OctoAcme releases features to production to reduce risk and impr
 - Notable changes:
 - Migration steps (if any):
 - Known issues:
+
+## Roles Involved
+- **Release Manager** — owns the deployment checklist, go/no-go decision, and post-release verification
+- **QA Automation Engineer** — confirms automated tests pass before deployment
+- **Security Champion** — signs off on security scan results
+- **Stakeholder Communication Lead** — drafts and sends release announcement
+- **Product Manager** — approves release scope
+
+## Related Templates
+- [Release Readiness Checklist](./octoacme-release-readiness-checklist.md) — structured sign-off across all readiness areas
+- [Stakeholder Update Template](./octoacme-stakeholder-update-template.md) — release announcement format
+- [Quality & Security Gates](./octoacme-quality-and-security-gates.md) — gate definitions and pass criteria
+- [Roles & Personas](./octoacme-roles-and-personas.md) — full role descriptions and interactions

@@ -38,3 +38,13 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - [ ] CI configured for tests and lint
 - [ ] Regular demos scheduled
 - [ ] Risk register updated weekly
+
+## Roles Involved
+- **Project Manager** — facilitates rhythm, escalates blockers
+- **Developers** — implement work, raise blockers in standups
+- **QA Automation Engineer** — maintains CI test suites and coverage gates
+- **Security Champion** — monitors security scan results; triages alerts
+
+## Related Templates
+- [Quality & Security Gates](./octoacme-quality-and-security-gates.md) — CI gate definitions and escalation paths
+- [Roles & Personas](./octoacme-roles-and-personas.md) — full role descriptions and interactions
